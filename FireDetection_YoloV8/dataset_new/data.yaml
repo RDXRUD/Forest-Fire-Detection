@@ -1,0 +1,13 @@
+names:
+- '0'
+- fogo-ypXI
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: fire-iso9f
+  url: https://universe.roboflow.com/ai-identificador-de-chama/fire-iso9f/dataset/1
+  version: 1
+  workspace: ai-identificador-de-chama
+test: test/images
+train: train/images
+val: valid/images

@@ -1,0 +1,19 @@
+# Ignore model files
+*.h5
+*.hdf5
+*.pb
+*.pkl
+*.joblib
+*.sav
+*.tflite
+*.pt
+*.onnx
+*.keras
+
+# Ignore dataset directory
+dataset/
+test/
+train/
+valid/
+*.zip
+
